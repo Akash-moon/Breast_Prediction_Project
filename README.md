@@ -27,6 +27,15 @@ The Breast Cancer Prediction project aims to develop a predictive model that acc
 
 The Breast Cancer Prediction project aims to improve the accuracy and efficiency of breast cancer detection, enabling early intervention and personalized treatment strategiesand by leveraging machine learning techniques.
 
+ ## Background :
+
+Breast cancer is the most common cancer among women in the world. It account for 25% of all cancer cases, and affected over 2.1 Million people in 2015. It starts when cells in the breast begin to grow out of control. These cells usually form a tumor that can often be seen on an X-ray or felt as a lump.
+    
+Early diagnosis significantly increases the chances of surviver. The key challenges against it's detection is how to classify tumors into malignant(Cancer) or benign(not cancer). A tumor is considered malignant (Cancer) if the cells can grow into surrounding tissues or spread to distant areas of the body. A benign tumor does not invade nearby tissue or spread to other parts of the body the way cancer can. But benign tumors can be serious if they press on vital structures such as blood vessel or nerves.
+    
+Machine Learning technique can dramatically improve the level of diagnosis in breast cancer. Research shows that experience physicians can detect cancer by 79% accuracy, while 91%(up to 97%) accuracy can be achieved using Machine Learning techniques.
+
+
 ## Conclusion :
 
 * **LogisticRegression =** 93.85
